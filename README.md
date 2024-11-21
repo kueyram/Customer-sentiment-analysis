@@ -2,20 +2,25 @@
 
 This project uses machine learning to analyze customer reviews and predict whether the sentiment is positive or negative. The model is built using a dataset of restaurant reviews and is deployed through a simple web interface built with Streamlit.
 
+---
+
 ## 🗂️Table of Contents
 
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Model Details](#model-details)
 - [License](#license)
+
+---
 
 ## Overview
 
 This project allows users to input restaurant reviews and get a prediction on whether the sentiment of the review is positive or negative. It uses a pre trained machine learning model to make predictions based on the input text.
 
 The model is trained using a dataset of restaurant reviews with ratings. We created a web interface using Streamlit where users can input their reviews and see the result.
+
+---
 
 ## Requirements
 
@@ -31,6 +36,8 @@ To install the required libraries, you can use the following command:
 ```bash
 pip install streamlit scikit-learn pandas
 ```
+
+---
 
 ## 🛠️Setup
 
@@ -51,3 +58,11 @@ cd restaurant-sentiment-analysis
 ```bash
 streamlit run sentiment_analysis_web_portal.py
 ```
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the LICENSE tab on the top for more details.
+
+---
