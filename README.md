@@ -1,6 +1,7 @@
 # Customer Sentiment Analysis for Restaurant Reviews
 
-This project uses machine learning to analyze customer reviews and predict whether the sentiment is positive or negative. The model is built using a dataset of restaurant reviews and is deployed through a simple web interface built with Streamlit.
+
+📖 This project uses machine learning to analyze customer reviews and predict whether the sentiment is positive or negative. The model is built using a dataset of restaurant reviews and is deployed through a simple web interface built with Streamlit.
 
 ---
 
